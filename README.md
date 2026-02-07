@@ -2,6 +2,8 @@
 
 Suplantar al Router y a dispositivo final sirviendo como intermediario para capturar el trafico entre estos. Con este script podemos analizar en la misma terminal el trafico que envia el objetivo al router.
 
+Video ilustrativo:  https://youtu.be/jEswLxYMfo4
+
 
 # Capturas de pantalla.
 
